@@ -20,8 +20,7 @@ import {
   ChevronRight,
 } from "lucide-react";
 
-import heroPortraitAsset from "@/assets/helya-portrait.png.asset.json";
-const heroPortrait = heroPortraitAsset.url;
+import heroPortrait from "@/assets/helya-portrait.png";
 import pEcom1 from "@/assets/p-ecommerce-1.jpg";
 import pEcom2 from "@/assets/p-ecommerce-2.jpg";
 import pAi1 from "@/assets/p-ai-1.jpg";
