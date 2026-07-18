@@ -99,16 +99,6 @@ npm run dev
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- About Section
-- Skills Section
-- Projects Section
-- Contact Section
-- Mobile Responsive View
 
 ---
 
@@ -135,15 +125,7 @@ Feel free to fork the repository and submit a pull request.
 
 # 📬 Contact
 
-**Helya Saeed**
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-💻 GitHub: https://github.com/yourusername
-
-📧 Email: your-email@example.com
-
-🌐 Portfolio: https://your-portfolio-link.vercel.app
 
 ---
 
